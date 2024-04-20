@@ -7,5 +7,3 @@ Technologies Used:
 - **React:** Frontend framework for building interactive user interfaces.
 - **MongoDB:** NoSQL database used for storing bank data efficiently.
 - **Subscriptions:** Utilized for live data fetching and real-time updates.
-
-This project combines the strengths of GraphQL, Apollo Server, React, and MongoDB to create a robust and dynamic application architecture. 
